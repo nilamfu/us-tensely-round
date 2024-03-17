@@ -1,0 +1,61 @@
+{
+	"name": "us-tensely-round",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login, twt-playground, and the twt-api withusername \"mervin94\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nilamfu/us-tensely-round.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "nilamfu",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1",
+		"readline-sync": "^1.4.10",
+		"twt-playground": "^1.0.0",
+		"tea-indeed-workforce": "^1.0.0",
+		"x-numeric-police": "^1.0.0",
+		"x-broil-gadzooks": "^1.0.0",
+		"tea-psst-yippee": "^1.0.0",
+		"tea-blah-concede": "^1.0.0",
+		"x-dismiss-across": "^1.0.0",
+		"x-gosh-where": "^1.0.0",
+		"x-fare-barring": "^1.0.0",
+		"tea-steel-zowie": "^1.0.0",
+		"tea-begonia-instead": "^1.0.0",
+		"x-fondue-indolent": "^1.0.0",
+		"x-infect-likewise": "^1.0.0",
+		"x-worse-clearly": "^1.0.0",
+		"x-first-boohoo": "^1.0.0",
+		"tea-whereas-safely": "^1.0.0",
+		"x-despite-cruelly": "^1.0.0",
+		"x-usually-longingly": "^1.0.0",
+		"x-which-frequent": "^1.0.0",
+		"x-cheery-messenger": "^1.0.0",
+		"tea-wearily-well-lit": "^1.0.0",
+		"tea-beside-yowza": "^1.0.0",
+		"x-rarely-opposite": "^1.0.0",
+		"tea-unearth-promptly": "^1.0.0",
+		"x-anguish-notarize": "^1.0.0",
+		"tea-about-minor": "^1.0.0",
+		"tea-truly-smooth": "^1.0.0",
+		"tea-pfft-along": "^1.0.0",
+		"tea-male-zowie": "^1.0.0",
+		"tea-unlike-often": "^1.0.0",
+		"tea-floor-align": "^1.0.0",
+		"x-prod-yippee": "^1.0.0",
+		"x-beneath-ill-fated": "^1.0.0",
+		"tea-lambkin-while": "^1.0.0",
+		"x-atop-twister": "^1.0.0",
+		"tea-slobber-cucumber": "^1.0.0",
+		"tea-however-sleep": "^1.0.0"
+	}
+}
